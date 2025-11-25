@@ -90,6 +90,7 @@ Split the data into:
 Built a classification model using:
 ### ✔ **Logistic Regression**
 
+---
 
 ### 6️⃣ **Model Evaluation**
 
