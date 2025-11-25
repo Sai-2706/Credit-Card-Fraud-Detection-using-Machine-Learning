@@ -1,11 +1,3 @@
-# Credit-Card-Fraud-Detection-using-Machine-Learning
-
-Absolutely Sahith — here is a **clean, professional, GitHub-friendly README.md** for your **Credit Card Fraud Detection Project** 🌟
-
-This README is written in a way that recruiters and developers will love — you can **copy–paste directly into your GitHub repo**.
-
----
-
 # 💳 **Credit Card Fraud Detection using Machine Learning**
 
 ## 📌 **Project Overview**
@@ -40,10 +32,10 @@ The goal of this project is to:
 
 This project uses the **Kaggle Credit Card Fraud Dataset** which contains:
 
-* 284,807 total transactions
-* 492 frauds (Class = 1)
+* total transactions
+* frauds (Class = 1)
 * Highly imbalanced (0.17% fraud)
-* 30 numerical features (V1–V28, Time, Amount)
+* numerical features (V1–V28, Time, Amount)
 
 Dataset includes:
 
